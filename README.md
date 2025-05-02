@@ -11,3 +11,4 @@ o Very few schools have limited or no wireless access, indicating widespread con
 o Both small and large schools implement 1-to-1 device initiatives.
 o The median enrollment of schools with and without the initiative is similar, showing that
 adoption is not limited to large institutions.
+  
